@@ -180,18 +180,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1709d1e1f99ca5e6",
   "lastOpenFiles": [
     "source/content/index.md",
+    "source/content/Мечта Просперо.md",
+    "source/content/Untitled",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
-    "source/content/Мечта Просперо.md",
-    "source/images",
-    "source/images/prosperos_dream.gif",
-    "source/images/pound_of_flesh.png",
+    "source/content/images",
+    "source/content/images/prosperos_dream.gif",
+    "source/content/images/pound_of_flesh.png",
     "README.md"
   ]
 }
