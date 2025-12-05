@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffc3870e61487d4d",
+        "id": "a37ef9a1b70944b6",
         "type": "tabs",
         "children": [
           {
-            "id": "1709d1e1f99ca5e6",
+            "id": "dca2167ca6983bb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,10 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1709d1e1f99ca5e6",
+  "active": "dca2167ca6983bb8",
   "lastOpenFiles": [
-    "source/content/index.md",
+    "Stellar burn.md",
     "source/content/Мечта Просперо.md",
+    "source/content/Placeholder.md",
+    "source/content/index.md",
     "source/content/Untitled",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
