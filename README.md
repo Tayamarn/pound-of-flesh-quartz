@@ -1,6 +1,6 @@
 # Obsidian / Quartz / GitHub Pages Template
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+Deployed URL: https://tayamarn.github.io/pound-of-flesh-quartz/
 
 Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
 
